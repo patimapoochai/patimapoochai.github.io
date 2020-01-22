@@ -27,6 +27,7 @@
       },
       {
         "network": "devpost",
+        "icon": "facebook",
         "username": "AlloyedJam",
         "url": "https://devpost.com/AlloyedJam"
       }
@@ -50,7 +51,7 @@
       ]
     },
     {
-      "name": "entrepreneur",
+      "name": "entrepreneurship",
       "keywords": [
         "startup",
         "marketing",
@@ -97,7 +98,7 @@
       ]
     }
   ],
-  
+  /*
   "work": [
     {
       "company": "UH Manoa Board of Publications",
@@ -123,7 +124,7 @@
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
-  ],
+  ], */
   "volunteer": [
     {
       "organization": "GenCyber",
@@ -149,7 +150,7 @@
         "Member, Grey Hats, 2019-Present"
       ]
     }
-  ],
+  ], /*
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -169,5 +170,5 @@
       "name": "Available upon request",
       "reference": ""
     }
-  ]
+  ] */
 }
