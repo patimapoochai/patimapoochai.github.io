@@ -92,7 +92,7 @@
       ]
     }
   ],
-  /*
+  
   "work": [
     {
       "company": "UH Manoa Board of Publications",
@@ -118,7 +118,7 @@
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
-  ], */
+  ],
   "volunteer": [
     {
       "organization": "GenCyber",
@@ -144,7 +144,7 @@
         "Member, Grey Hats, 2019-Present"
       ]
     }
-  ], /*
+  ],
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -158,7 +158,7 @@
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
-  ], */
+  ],
   "references": [
     {
       "name": "Available upon request",
