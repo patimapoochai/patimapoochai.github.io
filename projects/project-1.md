@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/HACC_pic.png
+image: images/hacc19_header2.jpg
 title: "HACC 2019"
 permalink: projects/hacc2019
 # All dates must be YYYY-MM-DD format!
