@@ -24,12 +24,6 @@
         "network": "linkedin",
         "username": "patimapoochai",
         "url": "http://linkedin.com/in/patimapoochai"
-      },
-      {
-        "network": "devpost",
-        "icon": "facebook",
-        "username": "AlloyedJam",
-        "url": "https://devpost.com/AlloyedJam"
       }
     ]
   },
@@ -164,11 +158,11 @@
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
-  ],
+  ], */
   "references": [
     {
       "name": "Available upon request",
       "reference": ""
     }
-  ] */
+  ]
 }
