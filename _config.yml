@@ -25,3 +25,6 @@ rouge-theme: igorpro
 markdown: kramdown
 include: [_data]
 
+# Github pages
+timezone: TIMEZONE
+future: true
