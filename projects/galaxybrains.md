@@ -5,7 +5,7 @@ image: images/hacc19_header2.jpg
 title: "HACC 2019"
 permalink: projects/hacc2019
 # All dates must be YYYY-MM-DD format!
-date: 2019-22-10
+date: 2019-10-22
 labels:
   - CSS
   - Django

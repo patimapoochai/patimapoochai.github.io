@@ -5,7 +5,7 @@ image: images/ccdc_qualifying.jpg
 title:  "CCDC"
 permalink: projects/ccdc
 # All dates must be YYYY-MM-DD format!
-date: 2019-24-02
+date: 2019-02-24
 labels:
   - Kali Linux
   - Ubuntu
