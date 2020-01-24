@@ -6,7 +6,7 @@ title: The Changed Dream of Game Development
 date: 2019-01-23
 labels:
   - ICS Major
-  - Learning Software Engineering
+  - Learning Software
 ---
 
 <div>
@@ -24,3 +24,12 @@ Like all plans, my desired career path changed when I came into contact with the
 The clubs organized by fellow CS students also help me develop my goal into a more practical career plan. By participating in a club like the Associate for Computing Machinery at Manoa, I was able to experience other possible career options. In my time at Grey Hats at Manoa, I was participate IT team that have to administrate and maintain a computer system against real attacker. Collaborating, screwing around, and failing spectacularly to secure a system is, surprisingly, more fun to me than working on a video game. Comparing being a system administrator to a game developer, working through stressful crunches and being exploited by game publishers wasn't as appealing.
 
 After my experience of studying computer science in an academic setting, my new goal is to try as many things as possible. I would still work on game development, but now I'm more open to learning other topics, such as software engineering, web design, and machine learning. I've also joined other clubs, like the Programming and Algorithms club, and aiming to participate in competitions, like ICPC and Global Game Jam.
+
+<div>
+  <div class="ui huge rounded image">
+    <img src="../images/journey-screenshot.jpg">
+    <div class="ui bottom attached center label">
+    I though I knew everything, but the peak is still far away.
+    </div>
+  </div>
+</div>
