@@ -32,7 +32,7 @@
       "name": "game development",
       "keywords": [
         "unity",
-        "ai",
+        "c#",
         "indie"
       ]
     },
@@ -92,44 +92,33 @@
       ]
     }
   ],
-  
+
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Hawaii Care and Cleaning",
+      "position": "Assistant Accounting",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2017-06-04",
+      "endDate": "2017-06-",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "File tax statement and invoices",
+        "Organize and maintain company records",
+        "Process mailed invoices"
       ]
-    }
+    },
   ],
   "volunteer": [
     {
       "organization": "GenCyber",
       "website": "https://www.gen-cyber.com/",
       "position": "Assistant Volunteer",
-      "startDate": "",
-      "endDate": "Summer 2021",
+      "startDate": "2019-06-03",
+      "endDate": "2019-06-07",
       "summary": "Assisted in teaching K12 students about computer science and security",
       "highlights": [
         "Gave lessons about software defined radio and raspberry pi",
-        "Assisted in organizing a student CTF event"
+        "Guide students through GenCyber's CTF event"
       ]
     },
     {
@@ -145,20 +134,7 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+  
   "references": [
     {
       "name": "Available upon request",
