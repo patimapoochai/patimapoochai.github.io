@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title:
+title: The Changed Dream of Game Development
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-23
 labels:
-  - Software Engineering
-  - Learning
+  - ICS Major
+  - Learning Software Engineering
 ---
 
 <div>
