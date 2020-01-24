@@ -13,7 +13,7 @@ labels:
 <div>
   <div class="ui large right floated rounded image">
     <img src="../images/jackie.jpg">
-      <div class="ui bottom attached label">Javascript is like drunken boxing.
+      <div class="ui bottom attached label">"Javascript is like drunken boxing" -Jackie Chan.
     </div>
   </div>
 </div>
