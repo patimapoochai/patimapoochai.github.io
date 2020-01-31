@@ -14,7 +14,7 @@ labels:
   <div class="ui huge rounded image">
     <img src="../images/STACK_SCREEN.png">
       <div class="ui bottom attached label">
-        The question looks so unappealing, you probably skipped down to the captions, didn't you?
+        Source: https://stackoverflow.com/questions/5918079/fgets-doesnt-work-after-scanf
     </div>
   </div>
 </div>
@@ -25,7 +25,7 @@ labels:
   <div class="ui Huge center floated rounded image">
     <img src="../images/Mason.jpg">
       <div class="ui bottom attached label">
-      "The code, Mason! Where is the error?!" a Stack Overflow helper heard as he was forced to look at a huge code dump.
+      "The code, Mason! Where is the error?!" a Stack Overflow helper listened helplessly as he was forced to look at the huge code dump.
     </div>
   </div>
 </div>
@@ -40,7 +40,8 @@ Reading [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-
 <div>
   <div class="ui Huge right floated rounded image">
     <img src="../images/STACK2_SCREEN.png">
-      <div class="ui bottom attached label">A pro "strat" to bring the hackers to the yard.
+      <div class="ui bottom attached label">
+      Source: https://stackoverflow.com/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3
     </div>
   </div>
 </div>
