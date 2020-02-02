@@ -6,7 +6,7 @@
     "email": "ppoochai@hawaii.edu",
     "phone": "",
     "website": "https://patimapoochai.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in the spring semester of 2022. I hope to work as a game developer in a game studio or help found a startup company after I graduate",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "game development",
+      "name": "Game Development",
       "keywords": [
         "unity",
         "c#",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "cybersecurity",
+      "name": "Cybersecurity",
       "keywords": [
         "kali linux",
         "ccdc",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "name": "entrepreneurship",
+      "name": "Entrepreneurship",
       "keywords": [
         "startup",
         "marketing",
@@ -134,7 +134,7 @@
       ]
     }
   ],
-  
+
   "references": [
     {
       "name": "Available upon request",
