@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: <Title In progress>
+title: A Good Title
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-23
 labels:
