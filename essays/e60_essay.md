@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Good Title
+title: Big Tech's Inevitable Transformation
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-23
 labels:
