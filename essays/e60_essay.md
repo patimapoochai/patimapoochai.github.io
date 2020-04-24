@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks, the Source Engine's Accelerated Back Hop of Web Design
+title: UI Frameworks, the Source Engine Accelerated Back Hop of Web Design
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-27
+date: 2020-04-23
 labels:
-  - UI Frameworks
-  - Semantic UI
-  - Frontend Design
+  - Ethics
+  - Humanity
+  - Software Engineering
 ---
 
 <div>
