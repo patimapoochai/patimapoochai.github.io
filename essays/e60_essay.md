@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks, the Source Engine Accelerated Back Hop of Web Design
+title: <Title In progress>
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-23
 labels:
@@ -19,17 +19,11 @@ labels:
   </div>
 </div>
 
-### The Speed Cap
-It is very difficult to work in web development without learning UI frameworks when they are the industry standard. There are some people who program purely based on CSS and HTML, but a career in a FANG (Facebook, Amazon, Netflix, Google) company is likely a far-fetched goal. Go on a framework’s website and you would see many logos of companies, more often than not dozens of top tech companies, that use the framework. UI frameworks have reached such a massive level of necessity, that big companies even publish their own UI and front-end frameworks, like Facebook’s publically available React framework. Choosing to neglect a UI framework like Semantic UI could lead web developers to miss the employment and entrepreneurial benefits of such frameworks.
+Ethics, in software engineering, is a set of principles that allows us to act in such a way that retains our humanity. In these times, its becoming even easier to forget the impacts of your code. Looking at your code through the screen elimanates any visible impact that your code could create. Its hard to see what harm, either through users using your features to cause harm to another user, or what risk your code could poss to certain people in society. What you are seeing is just algorithmic problems on your screen. Professing to a form ethics allows one to gain understanding on what impacts our action could have.
 
-### Forward Bunny Hopping
-In an ever-changing industry of computer science, keeping up with the industry standards is one of the most important factors for successful employment and independent project development. The prevailing career path for aspiring computer science students is to work in the top tech companies, and arguably the most important factors for a successful employment is the understanding of their development tools. Collaboration is expected among the professional tech communities, and new employees are expected to work in the same environment, procedure, and pipelines as their team. Thus, keeping up with the current development tools that companies use could give job applicants an advantage towards employment.
+One of my concerns about starting my own company is its potential to become an apathetic institution. There are many examples of companies that becomes an apathetic corporations despite its humble and altruistic beginning. A company like google would come to many of our minds, where the slogan: "Do no harm" is starting to fade away within the culture of the company, after rises of privacy violations and data collection begins to surface.
 
-### But Turning Backward
-Even if the work environment allows for personal preferences, utilizing UI frameworks could contribute towards the project’s success. For example, establishing a startup allows for the creator to define their own workflow, where the developer could choose to not use any frameworks at all. Even if the developer has more control over the development process, the project will benefit greatly from following the industry standard. Frameworks created and maintained by big companies offer greater functionality, for their success likely depend upon the framework being beneficial towards the company. In addition to that, if you want to replicate or reach the successes that big companies achieve with their project, trying to replicate their formula using their tools could yield insights into their success.
-
-### And Launching Forward
-Learning Semantic UI is quite a pain, in my opinion. I often found myself doubting the necessity of online tutorials, sometimes thinking “why would I need to go through all this work when I could have just used CSS?” The work towards leaning UI frameworks are tedious at first, sure, but the usage of these frameworks in the technology industry requires you to learn them. Even if UI frameworks are difficult and time-intensive, learning them provides a foundation for your future career.
+It seems impossible to stop this transformation from happening, I thought. The bigger the company grows, with larger ownership portion going to stockholders, the larger emphasis the company places on making a profit rather than servicing society.
 
 <div>
   <div class="ui Huge center rounded image">
