@@ -10,6 +10,8 @@ labels:
   - Frontend Design
 ---
 
+Needs heavy editing
+
 <div>
   <div class="ui Huge center rounded image">
     <img src="https://www.pcgamesn.com/wp-content/uploads/legacy/Half-Life_speedrun-590x332.jpg">

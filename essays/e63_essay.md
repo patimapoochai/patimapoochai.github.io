@@ -19,6 +19,8 @@ labels:
   </div>
 </div>
 
+Needs heavy editing
+
 ## What are design patterns?
 Design patterns originated in architecture. Christopher Alexander et al abstracted template solutions to common problems that he encountered in their work. This inspired computer scientists to adapt it into a, now classical, design patterns for programming. This book soon became famous and design patterns are abstracted from commonly found programming problems and made into generalized templates and this technique is then broadly implemented by all projects and it became a standard concept for software engineers and everyone lived happily ever after…
 

@@ -9,6 +9,8 @@ labels:
   - Learning Software
 ---
 
+Needs heavy editing
+
 <div>
   <div class="ui large floated rounded image">
     <img src="../images/cs_ss.jpg">

@@ -10,6 +10,8 @@ labels:
   - ESLint
 ---
 
+Needs heavy editing
+
 <div>
   <div class="ui medium right floated rounded image">
     <img src="../images/IntelliJ_Logo.png">
