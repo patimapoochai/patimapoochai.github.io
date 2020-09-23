@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/rrlogo.png
 title:  "Rainbow Retail"
-permalink: projects/ccdc
+permalink: projects/rainbow
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-15
 labels:
