@@ -55,7 +55,7 @@ The application was built using the [Meteor](https://www.meteor.com) framework a
   <div class="ui Huge center rounded image">
     <img src="{{ site.baseurl }}/images/kuka2.png">
     <div class="ui bottom attached label">
-      The landing page, where basic information is provided.  
+      The map view, where the data is visualized.
     </div>
   </div>
 </div>
@@ -66,7 +66,7 @@ The second page is the map view, where the map of the UH campus is displayed. Th
   <div class="ui Huge center rounded image">
     <img src="{{ site.baseurl }}/images/kuka3.png">
     <div class="ui bottom attached label">
-      The landing page, where basic information is provided.  
+      The history view, where users could look at data history.
     </div>
   </div>
 </div>
