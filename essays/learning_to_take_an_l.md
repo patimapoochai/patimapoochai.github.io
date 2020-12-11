@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Learning to Wrangle Nutrients Out of Coal
+title: Learning to take an L
 # All dates must be YYYY-MM-DD format!
-date: 2020-05-15
+date: 2020-12-10
 labels:
-  - Software Engineering
-  - Agile Project Management
-  - Configuration Management
+  - HACC 2020
+  - Hackathon
+  - Software development
 ---
 
 <div>
