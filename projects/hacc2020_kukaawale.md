@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hacc19_header2.jpg
+image: images/hacc2020_KuKawale.png
 title: "Ku Ka'awale"
 permalink: projects/hacc2020_KuKawale
 # All dates must be YYYY-MM-DD format!
