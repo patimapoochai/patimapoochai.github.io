@@ -22,14 +22,6 @@ summary: For HACC2020, my team create a campus WIFI occupancy web application.
   </div>
 </div>
 
-* A one paragraph description of the HACC, with a link to the HACC home page for further information.
-
-* A description of your challenge entry.  Describe, in some detail, the functionality of your project. Provide (annotated) screenshots, embed a video, and whatever else is necessary to help people understand what you accomplished. Of course, provide links to the GitHub page and the DevPost page for further information. (Several to many paragraphs.)
-
-* Describe your team process.  Who did you work with? What were your responsibilities?  (several to many paragraphs).
-
-* Reflect on your experience.  What went well? What did not go so well? What did you learn? What will you do differently in the future? (several to many paragraphs).
-
 <br/>
 COVID-19 has dramatically changed our lives, and for most of us, not for the better. One thing that this pandemic can’t change, however, seems to be our drive to innovate. While many events were canceled this year, the Hawaii Annual Code Challenge 2020 (https://hacc.hawaii.gov) adapted to an online format. The HACC still hosted a month-long hackathon for students and local developers to develop a software solution to solve the state of Hawaii’s community issues. Various state departments, the University of Hawaii, and local businesses present their challenge prompts to competitors, and each team must build a software solution within a month. Each team’s work would be judged by a panel of judges, and they will chooes the most innovative solution.
 
@@ -61,7 +53,7 @@ The application was built using the [Meteor](https://www.meteor.com) framework a
 
 <div>
   <div class="ui Huge center rounded image">
-    <img src="{{ site.baseurl }}/images/kuka1.png">
+    <img src="{{ site.baseurl }}/images/kuka2.png">
     <div class="ui bottom attached label">
       The landing page, where basic information is provided.  
     </div>
@@ -72,7 +64,7 @@ The second page is the map view, where the map of the UH campus is displayed. Th
 
 <div>
   <div class="ui Huge center rounded image">
-    <img src="{{ site.baseurl }}/images/kuka2.png">
+    <img src="{{ site.baseurl }}/images/kuka3.png">
     <div class="ui bottom attached label">
       The landing page, where basic information is provided.  
     </div>
