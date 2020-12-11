@@ -1,13 +1,15 @@
 ---
-layout: essay
-type: essay
-title: Learning to take an L
+layout: project
+type: project
+image: images/hacc19_header2.jpg
+title: "Ku Ka'awale"
+permalink: projects/hacc2020_KuKawale
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-10
 labels:
-  - HACC 2020
-  - Hackathon
-  - Software development
+  - Meteor
+  - LeafletJS
+summary: For HACC2020, my team create a campus WIFI occupancy web application.
 ---
 
 <div>
