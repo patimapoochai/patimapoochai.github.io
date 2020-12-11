@@ -42,7 +42,11 @@ COVID-19 has dramatically changed our lives, and for most of us, not for the bet
 
 My team’s submission to the event this year is Ku Ka'awale, a web application that could visualize the wireless data of the University of Hawaii at Manoa campus. With social distancing, the university seeks a solution to visualizing and predicting the campus occupancy. They were able to collect information regarding which wireless access points were used, and how many people are using them. Given this data, we came up with a prototype solution that aims to utilize new technology and present an intuitive user interface.
 
+<br/>
+Devpost: <a href="https://devpost.com/software/ku-ka-awale"><i class="large file icon "></i> https://devpost.com/software/ku-ka-awale</a>
 
+Source: <a href="https://github.com/HACC2020/StayAtHomeCoder"><i class="large github icon "></i>  HACC2020/StayAtHomeCoder </a>
+<br/>
 
 <div>
   <div class="ui Huge center rounded image">
