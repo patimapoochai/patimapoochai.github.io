@@ -92,9 +92,8 @@
       "endDate": "Present",
       "gpa": "3.52",
       "courses": [
-        "ICS212 - Program Structure",
-        "ICS314 - Software Engineering",
-        "ICS311 - Algorithms"
+        "ICS314 - Software engineering and web development course",
+        "ICS427 - Quality assurance and secure software design"
       ]
     }
   ],
