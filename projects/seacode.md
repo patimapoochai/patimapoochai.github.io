@@ -19,7 +19,7 @@ summary: For a secure software design class, my team developed a secure banking 
 
 <img class="ui centered huge rounded image" src="{{ site.baseurl }}/images/seabank-home.PNG">
 
-Secure development lifecycle is a new paradigm that I developed in quality assurance and secure software design class, and [SeaBank](https://tylerchinen.github.io/seabank.github.io/) is the application of this paradigm. My team created a web banking solution using the MERN (MongoDB, Express, React, and NPM) stack.
+Secure development lifecycle is a new paradigm that I developed in quality assurance and secure software design class, and [SeaBank](https://tylerchinen.github.io/seabank.github.io/) is the application of this paradigm. My team created a web banking solution using the MERN ([MongoDB](https://www.mongodb.com/), [Express](https://expressjs.com/), [React](https://reactjs.org/), and [NPM](https://www.npmjs.com/)) stack.
 
 <img class="ui centered huge rounded image" src="{{ site.baseurl }}/images/seabank-dashboard.PNG">
 
