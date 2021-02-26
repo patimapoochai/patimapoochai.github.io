@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/seacodelogo.png
+image: images/seabanklogo.png
 title:  "SeaBank"
 permalink: projects/seabank
 # All dates must be YYYY-MM-DD format!
