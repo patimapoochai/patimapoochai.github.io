@@ -15,4 +15,6 @@ See the quick start guide for instructions on how to tailor the template to your
     bigger
 - Add carasol to the index showcasing different projects to index
   - [X] Show good looking ones
-
+- Add "side projects" section
+  - [ ] Add side projects to Navbar
+  - [ ] For projects that are small, but can buff up my portfolio?
