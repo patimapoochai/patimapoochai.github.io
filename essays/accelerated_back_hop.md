@@ -30,13 +30,3 @@ Even if the work environment allows for personal preferences, utilizing UI frame
 
 ### And Launching Forward
 Learning Semantic UI is quite a pain, in my opinion. I often found myself doubting the necessity of going through hours online tutorials, sometimes thinking “why would I need to go through all this work when I could have just used pure CSS?” The work towards leaning UI frameworks is tedious at first, but the usage of these frameworks in the software industry requires that you learn them. Even if UI frameworks are difficult and time-intensive, learning them provides a foundation for your future career and independent projects.
-
-
-<div>
-  <div class="ui Huge center rounded image">
-    <img src="https://i0.wp.com/opensourceforu.com/wp-content/uploads/2016/06/speed-running.jpg?resize=696%2C392&ssl=1">
-      <div class="ui bottom attached label">
-      I was looking for an image of players performing this maneuver in an actual game, but I found this random photo of a bunch of office worker jumping while holding a laptop instead?
-    </div>
-  </div>
-</div>

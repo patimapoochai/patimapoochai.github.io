@@ -1,12 +1,13 @@
 {
   "basics": {
     "name": "Patima Poochai",
-    "label": "ICS Student",
+    "label": "Information and Computer Sciences Student",
+    "localtionLabel": "University of Hawaii at Manoa",
     "picture": "https://patimapoochai.github.io/images/profile.jpg",
     "email": "ppoochai@hawaii.edu",
     "phone": "",
     "website": "https://patimapoochai.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in the spring semester of 2022. I hope to work as a game developer in a game studio or help found a startup company after I graduate",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in the spring semester of 2022. I hope to work as a game developer in a game studio or help found a startup company after I graduate.",
     "location": {
       "address": "",
       "postalCode": "96822",

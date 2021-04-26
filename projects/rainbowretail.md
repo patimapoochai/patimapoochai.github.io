@@ -26,7 +26,7 @@ While the the choice of tools were choosen by the professor, this project was st
 
 The combination of React and Semantic UI also allowed me to quickly made very clean and animated pages. The front page was made with inspiration from sites like [Apple](https://www.apple.com/) or [Indorse](https://indorse.io/),  Something that would take serveral days of CSS and HTML could be done in a couple of days.
 
-<div class="ui medium centered rounded images">
+<div class="ui centered rounded image">
   <img src="{{ site.baseurl }}/images/LandingPage1.png">
   <img src="{{ site.baseurl }}/images/LandingPage2.png">
   <img src="{{ site.baseurl }}/images/LandingPage3.png">
