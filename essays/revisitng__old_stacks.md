@@ -18,7 +18,7 @@ labels:
   </div>
 </div>
 
-Recently, I worked [Project Malama](https://virtual-manoa-coders.github.io/) in a college web development course. This project is a collaboration between Hawaiian Electric Industries (HEI) and the Information and Computer Sciences department at the University of Hawaii at Manoa. In this upper-level web development course, my team had to deliver a web application that shows the impact of greenhouse gas (GHG) and our community’s transportation by the end of the course. An interesting note about this project is that we had to use the framework that we were taught earlier in the ICS program; [Meteor](https://www.meteor.com/).
+Recently, I worked on [Project Malama](https://virtual-manoa-coders.github.io/) in a college web development course. This project is a collaboration between Hawaiian Electric Industries (HEI) and the Information and Computer Sciences department at the University of Hawaii at Manoa. In this upper-level web development course, my team had to deliver a web application that shows the impact of greenhouse gas (GHG) and our community’s transportation by the end of the course. An interesting note about this project is that we had to use the framework that we were taught earlier in the ICS program; [Meteor](https://www.meteor.com/).
 
 <div class="ui Huge center rounded image">
   <img src="{{ site.baseurl }}/images/projectmalama-community2.png">
