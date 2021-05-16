@@ -32,7 +32,7 @@ It was very easy to dismiss Meteor. It was the web framework that was taught in 
 ## Same Tools; Different Environment
 In the recent intermediate-level web-development class, we were given a prompt by HEI. The electric company wanted an application that would visualize and communicate the impact of our transportation on the environment. This time, the course instructor didn’t give us strict requirements or told us how we should solve the problem. They gave us a real-world prompt and told us to bring this prompt to life using this same-old framework.
 
-This new unrestricted set of requirements made me into learning a lot more about the framework. My team had to generate ideas that would satisfy the requirements while being attractive and appealing to the users. In addition, we have to implement all of these complex ideas within this seemingly simple framework as well. This led me to push my understanding of Meteor as much as possible to create something that the real-world client would want, and it is a very informative experience.
+This new unrestricted set of requirements helped me learn a lot more about the framework. My team had to generate ideas that would satisfy the requirements while being attractive and appealing to the users. In addition, we have to implement all of these complex ideas within this seemingly simple framework as well. This led me to push my understanding of Meteor as much as possible to create something that the real-world client would want, and it is a very informative experience.
 
 ## Doing a Lot with <strike>a Little</strike> a Lot More
 
