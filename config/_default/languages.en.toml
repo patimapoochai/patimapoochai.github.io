@@ -1,0 +1,24 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Patima's Portfolio"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[params.author]
+name = "Patima Poochai"
+image = "images/pfp.png"
+headline = "Linux, Cloud Computing, DevOps"
+bio = "I'm a RHCSA and CompTIA certified Desktop Technician with a background in Linux administration and software engineering. I'm fascinated with cybersecurity's ever-evolving arms race between hackers and defenders and how to build a secure IT infrastructure to provide a safe environment for people and organizations to create a better world. I'm interested in roles that deploy, manage, and secure computing infrastructure."
+links = [
+  { linkedin = "www.linkedin.com/in/patima-poochai808" },
+  { github = "https://github.com/patimapoochai" },
+  { dev = "https://dev.to/patimapoochai" },
+  { mastodon = "https://infosec.exchange/@patlikestechnology" },
+]
+
