@@ -1,6 +1,6 @@
 ---
 title: 'How to fix Prometheus "open /prometheus/queries.active: permission denied" on Kubernetes: step-by-step'
-date: 2025-03-24
+date: 2025-03-17
 summary: "Troubleshooting a Prometheus issue caused by bad file permissions."
 tags: ["Prometheus", "Kubernetes"]
 ---
