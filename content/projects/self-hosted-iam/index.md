@@ -2,7 +2,7 @@
 title: "Self-hosted IAM Stack"
 date: 2025-05-19
 description: "AWS + NextJS dynamic page"
-summary: "Helm chart that deploys a self-hosted IAM stack to a Kubernetes cluster which can authenticate applications using OAuth and LDAP for authentication."
+summary: "Helm chart that deploys a self-hosted IAM platform to a Kubernetes cluster to authenticate applications using OAuth and LDAP."
 tags: ["IAM", "OAuth", "LDAP", "Grafana"]
 ---
 ![diagram of the project showing how the Keycloak and LLDAP maps to the IAM platform architecture](thumbnail.webp)

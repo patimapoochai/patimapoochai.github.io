@@ -13,8 +13,8 @@ dateFormat = "2 January 2006"
 [params.author]
 name = "Patima Poochai"
 image = "images/pfp.png"
-headline = "Linux, Cloud Computing, DevOps"
-bio = "I'm an RHCSA and AWS-certified engineer with a background in IT, Linux administration, and computer science. I'm interested in designing, deploying, and securing computing infrastructure that helps people create a better world."
+headline = "Linux, Cloud Computing, Kubernetes"
+bio = "I'm an RHCSA, Kubernetes, and AWS-certified engineer with a background in IT, Linux administration, and computer science. I'm interested in designing, deploying, and securing computing infrastructure that helps people create a better world."
 links = [
   { linkedin = "www.linkedin.com/in/patima-poochai808" },
   { github = "https://github.com/patimapoochai" },
