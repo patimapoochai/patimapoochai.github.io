@@ -1,7 +1,7 @@
 ---
 title: 'How to run a home lab without an ethernet port '
 date: 2025-03-26
-summary: "How I used a WiFi extender to bridge an air-gapped lab network to the internet without a direct ethernet connection."
+summary: "How I used a WiFi extender to bridge an air-gapped network to the internet without a direct ethernet connection."
 categories: ['blog']
 tags: ["HomeLab", "Networking", "Tutorial"]
 ---
